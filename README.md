@@ -1,2 +1,2 @@
 # leetcode
-leetcode水题一道
+刷leetcode开始了
